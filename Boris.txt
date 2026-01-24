@@ -1,2 +1,6 @@
 
+<<<<<<< HED
 Poor Boris is going to get beat to hell in this project, but he's not that bad of a guy.
+=======
+Poor Boris is going to get beat to hell in this project 
+>>>>>>> 0eb7f0766b64c12c8aa4badff178f38bc593258b
