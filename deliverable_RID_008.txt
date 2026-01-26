@@ -1,0 +1,30 @@
+commit b97c90f08ca9e07307ed43ef3323a8935153e0cf
+Merge: 03304fc 0eb7f07
+Author: BryanRinde <bryan.tyler.rinde@gmail.com>
+Date:   Sat Jan 24 01:33:01 2026 +0000
+
+    Boris
+
+commit 03304fcab38394a65b34808bd1ff687630215e55
+Author: BryanRinde <bryan.tyler.rinde@gmail.com>
+Date:   Sat Jan 24 01:20:07 2026 +0000
+
+    Poor
+
+commit 0eb7f0766b64c12c8aa4badff178f38bc593258b
+Author: Sid <sid.g@email.com>
+Date:   Fri Jan 23 17:10:58 2026 -0800
+
+    Make a change from Sid
+
+commit 3b3e385cd51f6b69663d59fb6c5da3c4c9bd0ef5
+Author: BryanRinde <bryan.tyler.rinde@gmail.comgit config --global user.email bryan.tyler.rinde@gmail.comgit config --global user.email bryan.tyler.rinde@gmail.com>
+Date:   Thu Jan 22 21:37:41 2026 +0000
+
+    Hello
+
+commit 01ee119486b5883f83b2535f10f8e823941c5a81
+Author: BryanRinde <bryan.tyler.rinde@gmail.comgit config --global user.email bryan.tyler.rinde@gmail.comgit config --global user.email bryan.tyler.rinde@gmail.com>
+Date:   Thu Jan 22 20:43:59 2026 +0000
+
+    Add notebook.txt
