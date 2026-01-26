@@ -28,3 +28,5 @@ Author: BryanRinde <bryan.tyler.rinde@gmail.comgit config --global user.email br
 Date:   Thu Jan 22 20:43:59 2026 +0000
 
     Add notebook.txt
+origin	https://github.com/BryanRinde/Bryan_Sid_RID_008.git (fetch)
+origin	https://github.com/BryanRinde/Bryan_Sid_RID_008.git (push)
